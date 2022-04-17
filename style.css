@@ -96,6 +96,10 @@ footer{
 form{
     margin: 40px 0;
 }
+.corpo-da-pagina{
+    padding-left: 10em;
+    width: 940px;    
+}
 
 form label, form legend{
     display: block;
