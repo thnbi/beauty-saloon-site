@@ -1,4 +1,4 @@
-# Hanabi's Beauty Saloon Site
+# Hanabi's Beauty Saloon Page
 
 Desenvolvi este projeto enquanto acompanhava o curso de html e css da alura para exercitar os novos conhecimentos.
 
